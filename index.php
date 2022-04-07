@@ -21,8 +21,11 @@
                     <h3>Módulo 01</h3>
                     <ul>
                         <li><a href="exercicio.php?dir=teste&file=teste">Exercício A</a></li>
+                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício B</a></li>
+                        <li><a href="exercicio.php?dir=teste&file=teste">Exercício C</a></li>
                     </ul>
                 </div>
+                
             </nav>
         </div>
     </main>
